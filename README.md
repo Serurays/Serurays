@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serurays
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on AI and Data Science Projects.
 - 📫 How to reach me: serurays@gmail.com
 
