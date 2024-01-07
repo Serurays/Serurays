@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Serurays
+- 👋 Hi, I’m Serra
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on AI and Data Science Projects.
